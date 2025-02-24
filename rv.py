@@ -1,0 +1,35 @@
+data = {
+    "Torque": "A measure of rotational force.",
+    "Voltage": "The electrical potential difference between two points.",
+    "Stress": "Force per unit area within materials.",
+    "Thermodynamics": "The study of heat, energy, and work.",
+    "Efficiency": "The ratio of useful output to total input in a system.",
+    "Power": "The rate of doing work or transferring energy.",
+    "Resistance": "Opposition to the flow of electric current.",
+    "Capacitance": "The ability of a system to store charge.",
+    "Inductance": "The property of a conductor to induce voltage when the current changes.",
+    "Momentum": "The quantity of motion of a moving body.",
+    "Entropy": "A measure of disorder in a system.",
+    "Work": "Force applied over a distance.",
+    "Kinematics": "The study of motion without considering forces.",
+    "Dynamics": "The study of forces and their effects on motion.",
+    "Fluid Mechanics": "The study of fluids in motion and at rest.",
+    "Heat Transfer": "The movement of heat from one place to another.",
+    "Aerodynamics": "The study of air movement and its interaction with objects.",
+    "Statics": "The study of forces in systems at rest.",
+    "Elasticity": "The ability of a material to return to its original shape.",
+    "Brittleness": "The tendency of a material to break without significant deformation.",
+    "Ductility": "The ability of a material to deform under tensile stress.",
+    "Hardness": "The resistance of a material to deformation or scratching.",
+    "Fatigue": "Weakening of a material due to repeated stress cycles.",
+    "Friction": "The force resisting the motion of surfaces in contact.",
+    "Lubrication": "The process of reducing friction between surfaces.",
+    "Oscillation": "A repetitive variation in time of some measure.",
+    "Resonance": "A condition where a system oscillates at its natural frequency.",
+    "Semiconductor": "A material with conductivity between a conductor and an insulator.",
+    "Actuator": "A device that converts energy into motion.",
+    "Sensor": "A device that detects or measures physical properties."
+}
+
+a = input("Say: ")
+print(data[a]) 
